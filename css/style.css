@@ -42,8 +42,19 @@ section {
 }
 
 .membre1 {
-  background-color: lightcoral;
+  background-color: rgb(77, 145, 235);
 }
+
+.membre1 a {
+  color: black;
+  text-decoration: none;
+}
+
+.membre1 a:hover {
+  color: #cde6d0;
+}
+
+
 
 
 header.membre2 {
